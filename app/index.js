@@ -1,5 +1,5 @@
-var React = Require('react');
-var ReactDOM = Require('react-dom');
+var React = require('react');
+var ReactDOM = require('react-dom');
 require('./index.css');
 
 class App extends React.Component {
