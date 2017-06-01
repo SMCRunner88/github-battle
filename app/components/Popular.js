@@ -2,6 +2,7 @@ var React = require('react');
 var PropTypes = require('prop-types');
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 function SelectLanguage (props) {
   var languages = ['All', 'JavaScript', 'Ruby', 'Java', 'CSS', 'Python'];
   return (
@@ -51,6 +52,8 @@ class Popular extends React.Component {
     )
   }
 =======
+=======
+>>>>>>> 2e3799a4b21720b978d4c04a6eeb2ff7a3a43789
 class SelectLanguage extends React.Component {
 	render() {
 		var languages = ['All', 'JavaScript', 'Ruby', 'Java', 'CSS', 'Python'];
@@ -100,6 +103,9 @@ class Popular extends React.Component {
 			</div>
 		)
 	}
+<<<<<<< HEAD
+>>>>>>> 2e3799a4b21720b978d4c04a6eeb2ff7a3a43789
+=======
 >>>>>>> 2e3799a4b21720b978d4c04a6eeb2ff7a3a43789
 }
 
