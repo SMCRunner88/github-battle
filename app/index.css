@@ -33,6 +33,7 @@ li {
   margin: 10px auto;
 }
 
+/*Buttons  */
 .button:hover:enabled {
   background: linear-gradient(#1a1a1a,#0a0a0a);
   color: #fff;
@@ -42,6 +43,21 @@ li {
 .button:active {
   transform: translateY(1px);
 }
+
+.reset {
+  border: none;
+  background: transparent;
+  color: #d0021b;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.reset:hover {
+  cursor: pointer;
+}
+
+/*End Buttons  */
 
 .avatar {
   width: 150px;
